@@ -1,0 +1,11 @@
+npm install
+
+npm run db:push
+
+
+npx tsx seed-data.mjs
+
+
+npm run dev
+
+http://localhost:3000
